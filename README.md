@@ -1,2 +1,2 @@
-# TIL
-Today I Learned 📝
+# CS
+Computer Science 📝
