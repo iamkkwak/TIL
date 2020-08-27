@@ -20,7 +20,7 @@
 
 <br>
 
-## Directories
+## Categories
 
 ### 🧬 Algorithm
 
