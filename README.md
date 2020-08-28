@@ -19,9 +19,7 @@
 
 <br>
 
-## Categories 📂
-
-### # Computer Science
+## # Computer Science
 
 ### 🧬 [Algorithm](https://github.com/iamkkwak/TIL/tree/master/Algorithm)  |  🕸 [Data Structure](https://github.com/iamkkwak/TIL/tree/master/Data%20Structure)
 
