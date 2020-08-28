@@ -19,9 +19,9 @@
 
 <br>
 
-<div align="center" style="font-size: 24px"> <strong>Categories 📂</strong> </div>
+## Categories 📂
 
-## # Computer Science
+### # Computer Science
 
 ### 🧬 [Algorithm](https://github.com/iamkkwak/TIL/tree/master/Algorithm)  |  🕸 [Data Structure](https://github.com/iamkkwak/TIL/tree/master/Data%20Structure)
 
