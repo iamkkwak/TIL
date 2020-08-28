@@ -20,7 +20,8 @@
 
 <br>
 
-<h1 align="center">Categories 📂</h1>
+<div style="text-align:center; font-size:24px;">Categories 📂</div>
+<p></p>
 
 ## # Computer Science
 
