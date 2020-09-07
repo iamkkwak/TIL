@@ -26,7 +26,7 @@ SSAFY 1학기가 끝났는데 임베디드 반이라서 그런가... 보여줄 �
 
 ### 🧬 [Algorithm](https://github.com/iamkkwak/TIL/tree/master/Algorithm)  |  🕸 [Data Structure](https://github.com/iamkkwak/TIL/tree/master/Data%20Structure)
 
-### 🧱 Database  |  📲 Network  |  🔑 Security
+### 🧱 Database  |  📲 [Network](https://github.com/iamkkwak/TIL/tree/master/Network)  |  🔑 Security
 
 ### ⚙ [Operating System](https://github.com/iamkkwak/TIL/tree/master/Operating%20System)  |  📌 ETC
 
