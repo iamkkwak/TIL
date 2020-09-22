@@ -1,31 +1,31 @@
-# 🧬 Algorithm
+## 🧬 Algorithm
 
 - [유니온 파인드 (Union-find)]([Algorithm]%20Union-find.md)
 
 <br>
 
-# 🕸 Data Structure
+## 🕸 Data Structure
 
 - [세그먼트 트리 (Segment Tree)](Segment%20Tree.md)
 - [트라이 (Trie)](Trie.md)
 
 <br>
 
-# 🧱 Database
+## 🧱 Database
 
 *... in the pipeline ...*
 
 
 <br>
 
-# 📲 Network
+## 📲 Network
 
 - [HTTPS](HTTPS.md)
 - [WebSocket과 Socket.IO](Socket.md)
 
 <br>
 
-# ⚙ Operating System
+## ⚙ Operating System
 
 - [Process와 Thread 비교](Process%20%26%20Thread.md)
 - [Deadlock (교착상태)](Deadlock.md)
@@ -34,7 +34,6 @@
 
 <br>
 
-# 🔑 Security
+## 🔑 Security
 
 *... in the pipeline ...*
-
