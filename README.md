@@ -22,6 +22,14 @@ SSAFY 1학기가 끝났는데 임베디드 반이라서 그런가... 보여줄 �
 
 <br>
 
+# Computer Science
+
+### 🧬 Algorithm | 🕸 Data Structure
+
+### 🧱 Database | 📲 Network | 🔑 Security
+
+### ⚙ Operating System | 📌 ETC
+
 <br>
 
 ## Show your support
