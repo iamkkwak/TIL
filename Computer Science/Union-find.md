@@ -54,7 +54,9 @@ int find(int u) {
 
 아래 그림과 같이 루트 노드인 y를 찾았으면 x의 부모를 바로 루트 노드로 바꾼다. 결과적으로 위의 그림은 아래 그림과 같이 바뀌기 때문에 `find` 함수의 효율을 높일 수 있다.
 
+<div align="center">
 <img src="https://k.kakaocdn.net/dn/0mtPh/btqDeTckq1T/c1kfkWYeG1rPQ6RXPMNMyk/img.png" alt="01" align="center" style="zoom:30%;" />
+</div>
 
 ![union-find-2](https://niklasjang.github.io/assets/images/algorithm/union-find-2.jpg)
 
